@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_PWA-61DAFB?style=for-the-badge&logo=pwa&logoColor=black" />
 </p>
@@ -71,7 +72,7 @@
 ### 🐍 Animated Developer Terminal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=720&height=220&lines=%23+hailemichael_stack.py;class+Developer%3A;++++def+__init__(self)%3A;++++++++self.frontend+%3D+%5B%22HTML5%22%2C+%22CSS3%22%2C+%22JavaScript%22%2C+%22React+PWA%22%5D;++++++++self.backend+%3D+%5B%22Node.js%22%2C+%22Express%22%2C+%22Python%22%2C+%22Java%22%5D;++++++++self.database+%3D+%5B%22MySQL%22%2C+%22Firebase+Firestore%22%2C+%22Kafka%22%5D;++++def+status(self)%3A;++++++++return+%22Building+Full-Stack+%26+Agentic+AI+Systems...%22" alt="Python Code Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=720&height=220&lines=%23+hailemichael_stack.py;class+Developer%3A;++++def+__init__(self)%3A;++++++++self.frontend+%3D+%5B%22HTML5%22%2C+%22CSS3%22%2C+%22JavaScript%22%2C+%22TypeScript%22%2C+%22React+PWA%22%5D;++++++++self.backend+%3D+%5B%22Node.js%22%2C+%22Express%22%2C+%22Python%22%2C+%22Java%22%5D;++++++++self.database+%3D+%5B%22MySQL%22%2C+%22Firebase+Firestore%22%2C+%22Kafka%22%5D;++++def+status(self)%3A;++++++++return+%22Building+Full-Stack+%26+Agentic+AI+Systems...%22" alt="Python Code Animation" />
 </p>
 
 ---
