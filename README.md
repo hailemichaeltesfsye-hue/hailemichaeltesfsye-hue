@@ -121,18 +121,6 @@ Enterprise-grade agentic defense platform that intercepts prompt injections, enf
 
 ---
 
-#### ⚡ AutoFixer & Multi-Agent Repair Cockpit
-**Autonomous Self-Healing Repository Repair & AST Synthesizer (Vultr Agent Rush Hackathon)**  
-Self-healing autonomous dev loop that clones remote git repos into isolated sandboxes, isolates syntax & runtime regressions, synthesizes AST patches, and pushes live verified commits.  
-**Technology:** `TypeScript` · `React 19` · `Node.js` · `Express` · `Docker` · `AST Synthesis`  
-<p align="left">
-  <a href="https://github.com/hailemichaeltesfsye-hue/my-fullstack-task-manager" target="_blank">
-    <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-  </a>
-</p>
-
----
-
 #### 🩺 Healthcare Diagnostic Loop v2
 **Autonomous P2P Multi-Agent Healthcare Diagnostic Platform**  
 End-to-end multi-agent clinical diagnostic workflow featuring differential diagnosis validation, medical knowledge graph verification, and interactive real-time telemetry.  
@@ -191,8 +179,8 @@ End-to-end e-commerce engine with user auth, product catalogs, shopping basket p
 🚀 Fluent across the stack. The best systems emerge at the intersection of disciplines.
 🎯 Building Multi-Agent AI Workflows, Scalable Web Applications & Cloud Architectures
 📍 Kombolcha, Ethiopia
-🎓 Software Engineering | Quantic MS AIE Candidate
-🏆 Meta Global AI Hackathon & Vultr Agent Rush Competitor
+🎓 BSc in Software Engineering · Wollo University (KIOT)
+🏆 Meta Global AI Developer Hackathon ($150K Challenge)
 ```
 
 ---
