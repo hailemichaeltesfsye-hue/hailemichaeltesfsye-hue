@@ -16,69 +16,69 @@
   <text x="35" y="44" class="title">At a glance</text>
   <line x1="35" y1="60" x2="765" y2="60" stroke="#1e293b" stroke-width="1"/>
 
-  <!-- 4 Stat Boxes -->
+  <!-- 4 Stat Boxes (Exact Hailemichael Reality) -->
   <!-- Box 1: Projects -->
   <g transform="translate(35, 76)">
     <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-    <text x="84" y="44" class="stat-num">25+</text>
-    <text x="84" y="68" class="stat-label">projects</text>
+    <text x="84" y="44" class="stat-num">25</text>
+    <text x="84" y="68" class="stat-label">repositories</text>
   </g>
 
-  <!-- Box 2: Commits -->
+  <!-- Box 2: Contributions -->
   <g transform="translate(220, 76)">
     <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-    <text x="84" y="44" class="stat-num">485+</text>
-    <text x="84" y="68" class="stat-label">commits</text>
+    <text x="84" y="44" class="stat-num">172+</text>
+    <text x="84" y="68" class="stat-label">contributions</text>
   </g>
 
   <!-- Box 3: Live Demos -->
   <g transform="translate(405, 76)">
     <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-    <text x="84" y="44" class="stat-num">8</text>
+    <text x="84" y="44" class="stat-num">5+</text>
     <text x="84" y="68" class="stat-label">live demos</text>
   </g>
 
   <!-- Box 4: Languages -->
   <g transform="translate(590, 76)">
     <rect width="175" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-    <text x="87" y="44" class="stat-num">9</text>
-    <text x="87" y="68" class="stat-label">languages</text>
+    <text x="87" y="44" class="stat-num">6</text>
+    <text x="87" y="68" class="stat-label">core languages</text>
   </g>
 
   <!-- Subheading -->
-  <text x="35" y="205" class="subhead">Languages across all projects</text>
+  <text x="35" y="205" class="subhead">Languages across all repositories (Real Source Code Analysis)</text>
 
-  <!-- Languages Progress Bars -->
-  <!-- TypeScript -->
-  <text x="35" y="235" class="lang-label">TypeScript</text>
+  <!-- Languages Progress Bars based on real GitHub bytes -->
+  <!-- Python: 43.4% -->
+  <text x="35" y="235" class="lang-label">Python</text>
   <rect x="155" y="224" width="540" height="12" rx="6" fill="#1e293b"/>
-  <rect x="155" y="224" width="280" height="12" rx="6" fill="#3178c6"/>
-  <text x="765" y="235" class="lang-pct">52%</text>
+  <rect x="155" y="224" width="234" height="12" rx="6" fill="#38bdf8"/>
+  <text x="765" y="235" class="lang-pct">43.4%</text>
 
-  <!-- Python -->
-  <text x="35" y="267" class="lang-label">Python</text>
+  <!-- TypeScript: 33.7% -->
+  <text x="35" y="267" class="lang-label">TypeScript</text>
   <rect x="155" y="256" width="540" height="12" rx="6" fill="#1e293b"/>
-  <rect x="155" y="256" width="130" height="12" rx="6" fill="#38bdf8"/>
-  <text x="765" y="267" class="lang-pct">24%</text>
+  <rect x="155" y="256" width="182" height="12" rx="6" fill="#3178c6"/>
+  <text x="765" y="267" class="lang-pct">33.7%</text>
 
-  <!-- JavaScript -->
+  <!-- JavaScript: 15.5% -->
   <text x="35" y="299" class="lang-label">JavaScript</text>
   <rect x="155" y="288" width="540" height="12" rx="6" fill="#1e293b"/>
-  <rect x="155" y="288" width="86" height="12" rx="6" fill="#facc15"/>
-  <text x="765" y="299" class="lang-pct">16%</text>
+  <rect x="155" y="288" width="84" height="12" rx="6" fill="#facc15"/>
+  <text x="765" y="299" class="lang-pct">15.5%</text>
 
-  <!-- HTML / CSS -->
-  <text x="35" y="331" class="lang-label">HTML / CSS</text>
+  <!-- CSS: 5.7% -->
+  <text x="35" y="331" class="lang-label">CSS</text>
   <rect x="155" y="320" width="540" height="12" rx="6" fill="#1e293b"/>
-  <rect x="155" y="320" width="27" height="12" rx="6" fill="#f97316"/>
-  <text x="765" y="331" class="lang-pct">5%</text>
+  <rect x="155" y="320" width="31" height="12" rx="6" fill="#a855f7"/>
+  <text x="765" y="331" class="lang-pct">5.7%</text>
 
-  <!-- SQL / Data -->
-  <text x="35" y="363" class="lang-label">SQL / DB</text>
+  <!-- HTML: 1.8% -->
+  <text x="35" y="363" class="lang-label">HTML</text>
   <rect x="155" y="352" width="540" height="12" rx="6" fill="#1e293b"/>
-  <rect x="155" y="352" width="17" height="12" rx="6" fill="#818cf8"/>
-  <text x="765" y="363" class="lang-pct">3%</text>
+  <rect x="155" y="352" width="10" height="12" rx="6" fill="#f97316"/>
+  <text x="765" y="363" class="lang-pct">1.8%</text>
 
   <!-- Footer auto-updated -->
-  <text x="765" y="405" class="auto-up">auto-updated 2026</text>
+  <text x="765" y="405" class="auto-up">auto-updated from GitHub API · 2026</text>
 </svg>
