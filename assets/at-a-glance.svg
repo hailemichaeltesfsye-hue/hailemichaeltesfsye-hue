@@ -16,11 +16,11 @@
   <text x="35" y="44" class="title">At a glance</text>
   <line x1="35" y1="60" x2="765" y2="60" stroke="#1e293b" stroke-width="1"/>
 
-  <!-- 4 Stat Boxes (Exact Hailemichael Reality) -->
-  <!-- Box 1: Projects -->
+  <!-- 4 Stat Boxes (Exact Hailemichael Reality: 10+ Live Demos) -->
+  <!-- Box 1: Repositories -->
   <g transform="translate(35, 76)">
     <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-    <text x="84" y="44" class="stat-num">25</text>
+    <text x="84" y="44" class="stat-num">25+</text>
     <text x="84" y="68" class="stat-label">repositories</text>
   </g>
 
@@ -31,14 +31,14 @@
     <text x="84" y="68" class="stat-label">contributions</text>
   </g>
 
-  <!-- Box 3: Live Demos -->
+  <!-- Box 3: Live Demos (10+) -->
   <g transform="translate(405, 76)">
     <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-    <text x="84" y="44" class="stat-num">5+</text>
+    <text x="84" y="44" class="stat-num">10+</text>
     <text x="84" y="68" class="stat-label">live demos</text>
   </g>
 
-  <!-- Box 4: Languages -->
+  <!-- Box 4: Core Languages -->
   <g transform="translate(590, 76)">
     <rect width="175" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
     <text x="87" y="44" class="stat-num">6</text>
