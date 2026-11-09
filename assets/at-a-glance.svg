@@ -1,0 +1,84 @@
+<svg width="800" height="430" viewBox="0 0 800 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 700; fill: #ffffff; }
+    .stat-num { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 800; fill: #38bdf8; text-anchor: middle; }
+    .stat-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #94a3b8; text-anchor: middle; }
+    .subhead { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; fill: #ffffff; }
+    .lang-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; fill: #f1f5f9; }
+    .lang-pct { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #94a3b8; text-anchor: end; }
+    .auto-up { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; fill: #64748b; text-anchor: end; }
+  </style>
+
+  <!-- Background card -->
+  <rect width="800" height="430" rx="16" fill="#0b101b" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Title & Divider -->
+  <text x="35" y="44" class="title">At a glance</text>
+  <line x1="35" y1="60" x2="765" y2="60" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- 4 Stat Boxes -->
+  <!-- Box 1: Projects -->
+  <g transform="translate(35, 76)">
+    <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+    <text x="84" y="44" class="stat-num">25+</text>
+    <text x="84" y="68" class="stat-label">projects</text>
+  </g>
+
+  <!-- Box 2: Commits -->
+  <g transform="translate(220, 76)">
+    <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+    <text x="84" y="44" class="stat-num">485+</text>
+    <text x="84" y="68" class="stat-label">commits</text>
+  </g>
+
+  <!-- Box 3: Live Demos -->
+  <g transform="translate(405, 76)">
+    <rect width="168" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+    <text x="84" y="44" class="stat-num">8</text>
+    <text x="84" y="68" class="stat-label">live demos</text>
+  </g>
+
+  <!-- Box 4: Languages -->
+  <g transform="translate(590, 76)">
+    <rect width="175" height="92" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+    <text x="87" y="44" class="stat-num">9</text>
+    <text x="87" y="68" class="stat-label">languages</text>
+  </g>
+
+  <!-- Subheading -->
+  <text x="35" y="205" class="subhead">Languages across all projects</text>
+
+  <!-- Languages Progress Bars -->
+  <!-- TypeScript -->
+  <text x="35" y="235" class="lang-label">TypeScript</text>
+  <rect x="155" y="224" width="540" height="12" rx="6" fill="#1e293b"/>
+  <rect x="155" y="224" width="280" height="12" rx="6" fill="#3178c6"/>
+  <text x="765" y="235" class="lang-pct">52%</text>
+
+  <!-- Python -->
+  <text x="35" y="267" class="lang-label">Python</text>
+  <rect x="155" y="256" width="540" height="12" rx="6" fill="#1e293b"/>
+  <rect x="155" y="256" width="130" height="12" rx="6" fill="#38bdf8"/>
+  <text x="765" y="267" class="lang-pct">24%</text>
+
+  <!-- JavaScript -->
+  <text x="35" y="299" class="lang-label">JavaScript</text>
+  <rect x="155" y="288" width="540" height="12" rx="6" fill="#1e293b"/>
+  <rect x="155" y="288" width="86" height="12" rx="6" fill="#facc15"/>
+  <text x="765" y="299" class="lang-pct">16%</text>
+
+  <!-- HTML / CSS -->
+  <text x="35" y="331" class="lang-label">HTML / CSS</text>
+  <rect x="155" y="320" width="540" height="12" rx="6" fill="#1e293b"/>
+  <rect x="155" y="320" width="27" height="12" rx="6" fill="#f97316"/>
+  <text x="765" y="331" class="lang-pct">5%</text>
+
+  <!-- SQL / Data -->
+  <text x="35" y="363" class="lang-label">SQL / DB</text>
+  <rect x="155" y="352" width="540" height="12" rx="6" fill="#1e293b"/>
+  <rect x="155" y="352" width="17" height="12" rx="6" fill="#818cf8"/>
+  <text x="765" y="363" class="lang-pct">3%</text>
+
+  <!-- Footer auto-updated -->
+  <text x="765" y="405" class="auto-up">auto-updated 2026</text>
+</svg>
