@@ -12,7 +12,7 @@
   <a href="https://drive.google.com/file/d/1O4EJ0Q-Nw_7WvPVtyXmyzULZQNzE1VGL/view" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_CV-FF4F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
   </a>
-  <a href="https://linkedin.com/in/hailemichaeltesfaye" target="_blank">
+  <a href="https://www.linkedin.com/in/hailemichael-tesfaye-2b7114401/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=hailemichaeltesfsye-hue&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -93,9 +93,25 @@
 
 ---
 
+#### 🏙️ NEXUS: The Living City
+**Autonomous AI Digital Twin & Multi-Agent Metropolitan OS for Addis Ababa (ኔክሰስ አዲስ አበባ)**  
+*Meta Global AI Hackathon ($150K Grand Challenge Submission)*  
+Autonomous municipal digital twin orchestrating 11 cognitive city-governance agents, real-time satellite telemetry, zero-shot computer vision hazard segmentation, and dual Amharic/English voice dispatch.  
+**Technology:** `Meta Llama 3.3 70B` · `Modal H100 GPU` · `Meta SAM Vision` · `Llama-Guard 3` · `TypeScript` · `Three.js` · `Vercel`  
+<p align="left">
+  <a href="https://nexus-the-living-city.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PRODUCTION_DEMO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/hailemichaeltesfsye-hue/-nexus-the-living-city" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
+---
+
 #### 🛡️ NetsuGuard AI
 **Autonomous Multi-Agent Security & LLM Guardrail Intelligence**  
-An enterprise-grade autonomous security defense platform that enforces real-time LLM input/output safety guardrails, detects prompt injection attempts, and orchestrates multi-agent remediation loops.  
+Enterprise-grade agentic defense platform that intercepts prompt injections, enforces safety boundary guardrails, and coordinates real-time self-correcting security agents.  
 **Technology:** `Python` · `LangGraph` · `ChromaDB` · `FastAPI` · `Groq` · `Tailwind CSS`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/netsaguard-ai" target="_blank">
@@ -107,7 +123,7 @@ An enterprise-grade autonomous security defense platform that enforces real-time
 
 #### ⚡ AutoFixer & Multi-Agent Repair Cockpit
 **Autonomous Self-Healing Repository Repair & AST Synthesizer (Vultr Agent Rush Hackathon)**  
-Self-healing autonomous dev engine that clones remote repositories into sandboxes, isolates syntax and runtime regressions, synthesizes AST patches, and pushes live verified commits.  
+Self-healing autonomous dev loop that clones remote git repos into isolated sandboxes, isolates syntax & runtime regressions, synthesizes AST patches, and pushes live verified commits.  
 **Technology:** `TypeScript` · `React 19` · `Node.js` · `Express` · `Docker` · `AST Synthesis`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/my-fullstack-task-manager" target="_blank">
@@ -119,7 +135,7 @@ Self-healing autonomous dev engine that clones remote repositories into sandboxe
 
 #### 🩺 Healthcare Diagnostic Loop v2
 **Autonomous P2P Multi-Agent Healthcare Diagnostic Platform**  
-End-to-end multi-agent clinical diagnostic workflow featuring differential diagnosis validation, medical graph verification, and interactive real-time telemetry.  
+End-to-end multi-agent clinical diagnostic workflow featuring differential diagnosis validation, medical knowledge graph verification, and interactive real-time telemetry.  
 **Technology:** `Python` · `LangChain` · `FastAPI` · `ChromaDB` · `Medical Graph UI`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/healthcare-diagnostic-loop-v2" target="_blank">
@@ -143,7 +159,7 @@ Specialized squad of autonomous agents monitoring anomalous network telemetry, t
 
 #### 🛍️ Amazon Full-Stack Architecture
 **Full-Scale Commercial E-Commerce Platform**  
-Full-stack e-commerce engine with user auth, product catalogs, shopping basket persistence, Stripe checkout integration, and cloud-hosted microservices.  
+End-to-end e-commerce engine with user auth, product catalogs, shopping basket persistence, Stripe checkout integration, and cloud-hosted microservices.  
 **Technology:** `React.js` · `Node.js` · `Express` · `Firebase Firestore` · `Stripe API`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/amazon-clone-frontend" target="_blank">
@@ -176,6 +192,7 @@ Full-stack e-commerce engine with user auth, product catalogs, shopping basket p
 🎯 Building Multi-Agent AI Workflows, Scalable Web Applications & Cloud Architectures
 📍 Kombolcha, Ethiopia
 🎓 Software Engineering | Quantic MS AIE Candidate
+🏆 Meta Global AI Hackathon & Vultr Agent Rush Competitor
 ```
 
 ---
@@ -185,6 +202,9 @@ Full-stack e-commerce engine with user auth, product catalogs, shopping basket p
 <p align="center">
   <a href="mailto:hailemichaeltesfsye@gmail.com">
     <img src="https://img.shields.io/badge/Email-hailemichaeltesfsye%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hailemichael-tesfaye-2b7114401/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hailemichael_Tesfaye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://hailemichael-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
