@@ -12,7 +12,17 @@
   <a href="https://drive.google.com/file/d/1O4EJ0Q-Nw_7WvPVtyXmyzULZQNzE1VGL/view" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_CV-FF4F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
   </a>
+  <a href="https://linkedin.com/in/hailemichaeltesfaye" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=hailemichaeltesfsye-hue&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+<!-- At a glance Section -->
+<p align="center">
+  <img src="assets/at-a-glance.svg" width="100%" alt="At a glance" />
 </p>
 
 ---
@@ -28,51 +38,133 @@
 </p>
 
 ---
-### 🛠️ Complete Technology Stack
 
-#### **💻 Frontend & Core Web**
+### 🛠️ Tech Stack
+
+#### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_PWA-61DAFB?style=for-the-badge&logo=pwa&logoColor=black" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,bash,matlab&theme=dark" alt="Programming Languages" /></a>
 </p>
 
-#### **⚙️ Backend & API Engineering**
+#### ⚙️ Backend Engineering & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django&theme=dark" alt="Backend Technologies" /></a>
 </p>
 
-#### **🤖 Agentic AI, Orchestration & LLMs**
+#### 🎨 Frontend & Mobile Development
 <p align="left">
-  <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-8E7CC3?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-00D2B8?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_Ultra_Fast-FF4500?style=for-the-badge&logo=speedtest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Toolchain_uv-D12B88?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&theme=dark" alt="Frontend Technologies" /></a>
 </p>
 
-#### **🗄️ Databases, Streaming & Infrastructure**
+#### 🗄️ Databases & Data Stores
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark" alt="Databases" /></a>
 </p>
+
+#### 🤖 AI, Machine Learning & Agentic Systems
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Frameworks" /></a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8E7CC3?style=for-the-badge&logo=google&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/ChromaDB-00D2B8?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Groq_Ultra_Fast-FF4500?style=for-the-badge&logo=speedtest&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Toolchain_uv-D12B88?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+</p>
+
+#### 🛠️ Developer Tools & Infrastructure
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,figma,docker,linux,vercel&theme=dark" alt="Developer Tools" /></a>
+</p>
+
+---
 
 ### 🐍 Animated Developer Terminal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=720&height=220&lines=%23+hailemichael_stack.py;class+Developer%3A;++++def+__init__(self)%3A;++++++++self.frontend+%3D+%5B%22HTML5%22%2C+%22CSS3%22%2C+%22JavaScript%22%2C+%22TypeScript%22%2C+%22React+PWA%22%5D;++++++++self.backend+%3D+%5B%22Node.js%22%2C+%22Express%22%2C+%22Python%22%2C+%22Java%22%5D;++++++++self.database+%3D+%5B%22MySQL%22%2C+%22Firebase+Firestore%22%2C+%22Kafka%22%5D;++++def+status(self)%3A;++++++++return+%22Building+Full-Stack+%26+Agentic+AI+Systems...%22" alt="Python Code Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=720&height=220&lines=%23+hailemichael_stack.py;class+Developer%3A;++++def+__init__(self)%3A;++++++++self.frontend+%3D+%5B%22React%22%2C+%22TypeScript%22%2C+%22Next.js%22%2C+%22Tailwind%22%5D;++++++++self.backend+%3D+%5B%22FastAPI%22%2C+%22Node.js%22%2C+%22Express%22%2C+%22Python%22%5D;++++++++self.agentic_ai+%3D+%5B%22LangGraph%22%2C+%22LangChain%22%2C+%22MCP%22%2C+%22ChromaDB%22%5D;++++def+status(self)%3A;++++++++return+%22Orchestrating+Autonomous+Multi-Agent+Workflows...%22" alt="Python Code Animation" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+---
+
+#### 🛡️ NetsuGuard AI
+**Autonomous Multi-Agent Security & LLM Guardrail Intelligence**  
+An enterprise-grade autonomous security defense platform that enforces real-time LLM input/output safety guardrails, detects prompt injection attempts, and orchestrates multi-agent remediation loops.  
+**Technology:** `Python` · `LangGraph` · `ChromaDB` · `FastAPI` · `Groq` · `Tailwind CSS`  
+<p align="left">
+  <a href="https://github.com/hailemichaeltesfsye-hue/netsaguard-ai" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
+---
+
+#### ⚡ AutoFixer & Multi-Agent Repair Cockpit
+**Autonomous Self-Healing Repository Repair & AST Synthesizer (Vultr Agent Rush Hackathon)**  
+Self-healing autonomous dev engine that clones remote repositories into sandboxes, isolates syntax and runtime regressions, synthesizes AST patches, and pushes live verified commits.  
+**Technology:** `TypeScript` · `React 19` · `Node.js` · `Express` · `Docker` · `AST Synthesis`  
+<p align="left">
+  <a href="https://github.com/hailemichaeltesfsye-hue/my-fullstack-task-manager" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
+---
+
+#### 🩺 Healthcare Diagnostic Loop v2
+**Autonomous P2P Multi-Agent Healthcare Diagnostic Platform**  
+End-to-end multi-agent clinical diagnostic workflow featuring differential diagnosis validation, medical graph verification, and interactive real-time telemetry.  
+**Technology:** `Python` · `LangChain` · `FastAPI` · `ChromaDB` · `Medical Graph UI`  
+<p align="left">
+  <a href="https://github.com/hailemichaeltesfsye-hue/healthcare-diagnostic-loop-v2" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
+---
+
+#### 👥 SOC Agent Workforce
+**Autonomous Multi-Agent Cybersecurity & Threat Hunting Operations**  
+Specialized squad of autonomous agents monitoring anomalous network telemetry, triaging CVE alerts, and automatically formulating incident response playbooks.  
+**Technology:** `Python` · `LangGraph` · `Model Context Protocol (MCP)` · `REST APIs`  
+<p align="left">
+  <a href="https://github.com/hailemichaeltesfsye-hue/soc-agent-workforce" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
+---
+
+#### 🛍️ Amazon Full-Stack Architecture
+**Full-Scale Commercial E-Commerce Platform**  
+Full-stack e-commerce engine with user auth, product catalogs, shopping basket persistence, Stripe checkout integration, and cloud-hosted microservices.  
+**Technology:** `React.js` · `Node.js` · `Express` · `Firebase Firestore` · `Stripe API`  
+<p align="left">
+  <a href="https://github.com/hailemichaeltesfsye-hue/amazon-clone-frontend" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_FRONTEND-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
+  </a>
+  <a href="https://github.com/hailemichaeltesfsye-hue/amazon-clone-backend" target="_blank">
+    <img src="https://img.shields.io/badge/📂_VIEW_BACKEND-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hailemichaeltesfsye-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailemichaeltesfsye-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailemichaeltesfsye-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,3 +175,21 @@
 🚀 Fluent across the stack. The best systems emerge at the intersection of disciplines.
 🎯 Building Multi-Agent AI Workflows, Scalable Web Applications & Cloud Architectures
 📍 Kombolcha, Ethiopia
+🎓 Software Engineering | Quantic MS AIE Candidate
+```
+
+---
+
+### 📬 Get In Touch
+
+<p align="center">
+  <a href="mailto:hailemichaeltesfsye@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hailemichaeltesfsye%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://hailemichael-portfolio-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/hailemichaeltesfsye-hue" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-hailemichaeltesfsye--hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
