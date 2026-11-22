@@ -159,20 +159,7 @@ End-to-end e-commerce engine with user auth, product catalogs, shopping basket p
   </a>
 </p>
 
----
 
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hailemichaeltesfsye-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailemichaeltesfsye-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailemichaeltesfsye-hue&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌟 About Me
 
@@ -181,24 +168,8 @@ End-to-end e-commerce engine with user auth, product catalogs, shopping basket p
 🎯 Building Multi-Agent AI Workflows, Scalable Web Applications & Cloud Architectures
 📍 Kombolcha, Ethiopia
 🎓 BSc in Software Engineering · Wollo University (KIOT)
-🏆 Meta Global AI Developer Hackathon ($150K Challenge)
+
 ```
 
----
 
-### 📬 Get In Touch
 
-<p align="center">
-  <a href="mailto:hailemichaeltesfsye@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hailemichaeltesfsye%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hailemichael-tesfaye-2b7114401/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hailemichael_Tesfaye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hailemichael-portfolio-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/hailemichaeltesfsye-hue" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-hailemichaeltesfsye--hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
