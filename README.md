@@ -20,10 +20,6 @@
 
 ---
 
-<!-- At a glance Section -->
-<p align="center">
-  <img src="assets/at-a-glance.svg" width="100%" alt="At a glance" />
-</p>
 
 ---
 
