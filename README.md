@@ -35,44 +35,49 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Verified Tech Stack
 
 #### 💻 Programming Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,bash,matlab&theme=dark" alt="Programming Languages" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,html,css&theme=dark" alt="Programming Languages" /></a>
 </p>
 
-#### ⚙️ Backend Engineering & APIs
+#### ⚙️ Backend & Web Engineering
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django&theme=dark" alt="Backend Technologies" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,vite,tailwind,threejs&theme=dark" alt="Web and Backend Technologies" /></a>
 </p>
 
-#### 🎨 Frontend & Mobile Development
+#### 🗄️ Databases & Vector Stores
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&theme=dark" alt="Frontend Technologies" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark" alt="Databases" /></a>
 </p>
 
-#### 🗄️ Databases & Data Stores
+#### 🤖 AI, Data Science & Agentic Systems
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark" alt="Databases" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI and ML Frameworks" /></a>
 </p>
 
-#### 🤖 AI, Machine Learning & Agentic Systems
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Frameworks" /></a>
-</p>
 <p align="left">
   <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8E7CC3?style=for-the-badge&logo=google&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8E7CC3?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/ChromaDB-00D2B8?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Groq_Ultra_Fast-FF4500?style=for-the-badge&logo=speedtest&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Toolchain_uv-D12B88?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
-#### 🛠️ Developer Tools & Infrastructure
+#### 🛠️ Developer Tools & Workflow
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,figma,docker,linux,vercel&theme=dark" alt="Developer Tools" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Developer Tools" /></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ---
