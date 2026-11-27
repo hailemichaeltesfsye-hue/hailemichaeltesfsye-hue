@@ -1,7 +1,7 @@
 <!-- Header Section: Typing Animation & Profile Badges -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Hailemichael+Tesfaye+Mekuria;Agentic+AI+%26+Full-Stack+Engineer;Building+Autonomous+AI+Systems+%26+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Hailemichael+Tesfaye+Mekuria;Agentic+AI+%26+Full-Stack+Developer;Building+Multi-Agent+Systems+%26+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
   <a href="https://hailemichael-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1O4EJ0Q-Nw_7WvPVtyXmyzULZQNzE1VGL/view" target="_blank">
+  <a href="PASTE_YOUR_CV_GOOGLE_DRIVE_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_CV-FF4F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/hailemichael-tesfaye-2b7114401/" target="_blank">
@@ -20,10 +20,7 @@
 
 ---
 
-
----
-
-### 🕹️ Dynamic Contribution Snake Game
+### 🕹️ Contribution Activity
 
 <p align="center">
   <picture>
@@ -35,14 +32,14 @@
 
 ---
 
-### 🛠️ Verified Tech Stack
+### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,html,css&theme=dark" alt="Programming Languages" /></a>
 </p>
 
-#### ⚙️ Backend & Web Engineering
+#### ⚙️ Backend & Web Development
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,vite,tailwind,threejs&theme=dark" alt="Web and Backend Technologies" /></a>
 </p>
@@ -52,7 +49,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark" alt="Databases" /></a>
 </p>
 
-#### 🤖 AI, Data Science & Agentic Systems
+#### 🤖 AI, ML & Agentic Frameworks
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI and ML Frameworks" /></a>
 </p>
@@ -68,7 +65,7 @@
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
-#### 🛠️ Developer Tools & Workflow
+#### 🧰 Developer Tools & Workflow
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Developer Tools" /></a>
 </p>
@@ -82,26 +79,24 @@
 
 ---
 
-### 🐍 Animated Developer Terminal
+### 🐍 Developer Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=720&height=220&lines=%23+hailemichael_stack.py;class+Developer%3A;++++def+__init__(self)%3A;++++++++self.frontend+%3D+%5B%22React%22%2C+%22TypeScript%22%2C+%22Next.js%22%2C+%22Tailwind%22%5D;++++++++self.backend+%3D+%5B%22FastAPI%22%2C+%22Node.js%22%2C+%22Express%22%2C+%22Python%22%5D;++++++++self.agentic_ai+%3D+%5B%22LangGraph%22%2C+%22LangChain%22%2C+%22MCP%22%2C+%22ChromaDB%22%5D;++++def+status(self)%3A;++++++++return+%22Orchestrating+Autonomous+Multi-Agent+Workflows...%22" alt="Python Code Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=720&height=220&lines=%23+hailemichael_stack.py;class+Developer%3A;++++def+__init__(self)%3A;++++++++self.frontend+%3D+%5B%22React%22%2C+%22TypeScript%22%2C+%22Tailwind%22%2C+%22Three.js%22%5D;++++++++self.backend+%3D+%5B%22FastAPI%22%2C+%22Node.js%22%2C+%22Express%22%2C+%22Python%22%5D;++++++++self.agentic_ai+%3D+%5B%22LangGraph%22%2C+%22LangChain%22%2C+%22MCP%22%2C+%22ChromaDB%22%5D;++++def+status(self)%3A;++++++++return+%22Building+multi-agent+systems+%26+full-stack+web+apps...%22" alt="Python Code Animation" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
----
-
 #### 🏙️ NEXUS: The Living City
-**Autonomous AI Digital Twin & Multi-Agent Metropolitan OS for Addis Ababa (ኔክሰስ አዲስ አበባ)**  
+**Emergency Response Simulator & Multi-Agent City System for Addis Ababa**  
 *Meta Global AI Hackathon ($150K Grand Challenge Submission)*  
-Autonomous municipal digital twin orchestrating 11 cognitive city-governance agents, real-time satellite telemetry, zero-shot computer vision hazard segmentation, and dual Amharic/English voice dispatch.  
-**Technology:** `Meta Llama 3.3 70B` · `Modal H100 GPU` · `Meta SAM Vision` · `Llama-Guard 3` · `TypeScript` · `Three.js` · `Vercel`  
+Multi-agent emergency response simulator handling 991/907 incident triage across 10 Addis Ababa sub-cities, hospital resource matching, dynamic routing, hazard vision segmentation, and bilingual Amharic/English dispatch.  
+**Stack:** `Meta Llama 3.3 70B` · `Modal H100 GPU` · `Meta SAM Vision` · `Llama-Guard 3` · `TypeScript` · `Three.js` · `Vercel`  
 <p align="left">
   <a href="https://nexus-the-living-city.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PRODUCTION_DEMO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
   </a>
   <a href="https://github.com/hailemichaeltesfsye-hue/-nexus-the-living-city" target="_blank">
     <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
@@ -111,9 +106,9 @@ Autonomous municipal digital twin orchestrating 11 cognitive city-governance age
 ---
 
 #### 🛡️ NetsuGuard AI
-**Autonomous Multi-Agent Security & LLM Guardrail Intelligence**  
-Enterprise-grade agentic defense platform that intercepts prompt injections, enforces safety boundary guardrails, and coordinates real-time self-correcting security agents.  
-**Technology:** `Python` · `LangGraph` · `ChromaDB` · `FastAPI` · `Groq` · `Tailwind CSS`  
+**Multi-Agent LLM Security & Guardrail Layer**  
+Security layer for LLM apps that checks incoming prompts for injection attacks, enforces safety rules, and routes flagged requests through multi-agent verification.  
+**Stack:** `Python` · `LangGraph` · `ChromaDB` · `FastAPI` · `Groq` · `Tailwind CSS`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/netsaguard-ai" target="_blank">
     <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
@@ -123,9 +118,9 @@ Enterprise-grade agentic defense platform that intercepts prompt injections, enf
 ---
 
 #### 🩺 Healthcare Diagnostic Loop v2
-**Autonomous P2P Multi-Agent Healthcare Diagnostic Platform**  
-End-to-end multi-agent clinical diagnostic workflow featuring differential diagnosis validation, medical knowledge graph verification, and interactive real-time telemetry.  
-**Technology:** `Python` · `LangChain` · `FastAPI` · `ChromaDB` · `Medical Graph UI`  
+**Multi-Agent Medical Triage & Diagnostic Workflow**  
+Multi-agent clinical workflow that evaluates patient symptoms, runs differential diagnosis checks against medical knowledge graphs, and displays live step logs.  
+**Stack:** `Python` · `LangChain` · `FastAPI` · `ChromaDB` · `Medical Graph UI`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/healthcare-diagnostic-loop-v2" target="_blank">
     <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
@@ -135,9 +130,9 @@ End-to-end multi-agent clinical diagnostic workflow featuring differential diagn
 ---
 
 #### 👥 SOC Agent Workforce
-**Autonomous Multi-Agent Cybersecurity & Threat Hunting Operations**  
-Specialized squad of autonomous agents monitoring anomalous network telemetry, triaging CVE alerts, and automatically formulating incident response playbooks.  
-**Technology:** `Python` · `LangGraph` · `Model Context Protocol (MCP)` · `REST APIs`  
+**Multi-Agent Cybersecurity & Alert Triage System**  
+Specialized agent workflow that reviews suspicious network logs, triages CVE alerts, and drafts incident response playbooks using MCP tool calls.  
+**Stack:** `Python` · `LangGraph` · `Model Context Protocol (MCP)` · `REST APIs`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/soc-agent-workforce" target="_blank">
     <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
@@ -146,10 +141,10 @@ Specialized squad of autonomous agents monitoring anomalous network telemetry, t
 
 ---
 
-#### 🛍️ Amazon Full-Stack Architecture
-**Full-Scale Commercial E-Commerce Platform**  
-End-to-end e-commerce engine with user auth, product catalogs, shopping basket persistence, Stripe checkout integration, and cloud-hosted microservices.  
-**Technology:** `React.js` · `Node.js` · `Express` · `Firebase Firestore` · `Stripe API`  
+#### 🛍️ Amazon Full-Stack E-Commerce App
+**Full-Stack Web Store with Auth & Payments**  
+E-commerce web app featuring user authentication, product listings, persistent shopping cart, Stripe checkout integration, and cloud database storage.  
+**Stack:** `React.js` · `Node.js` · `Express` · `Firebase Firestore` · `Stripe API`  
 <p align="left">
   <a href="https://github.com/hailemichaeltesfsye-hue/amazon-clone-frontend" target="_blank">
     <img src="https://img.shields.io/badge/📂_VIEW_FRONTEND-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
@@ -159,17 +154,12 @@ End-to-end e-commerce engine with user auth, product catalogs, shopping basket p
   </a>
 </p>
 
+---
 
-
-### 🌟 About Me
+### 📍 About Me
 
 ```text
-🚀 Fluent across the stack. The best systems emerge at the intersection of disciplines.
-🎯 Building Multi-Agent AI Workflows, Scalable Web Applications & Cloud Architectures
-📍 Kombolcha, Ethiopia
-🎓 BSc in Software Engineering · Wollo University (KIOT)
-
-```
-
-
-
+Student: BSc in Software Engineering @ Wollo University (KIOT)
+Role:    Campus Chapter Lead @ NSK AI (Kombolcha Campus)
+Focus:   Multi-Agent AI Systems, FastAPI Backends & Full-Stack Web Apps
+Based:   Kombolcha, Ethiopia
