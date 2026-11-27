@@ -9,7 +9,7 @@
   <a href="https://hailemichael-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1KzHUaq-1ekLLnC-yyd0pK4msQwj6dZ1c/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/15xTSDv8rZOtgteEnrsfQK1T5HQawSahL/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_CV-FF4F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/hailemichael-tesfaye-2b7114401/" target="_blank">
